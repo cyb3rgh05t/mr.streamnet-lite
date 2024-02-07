@@ -42,7 +42,7 @@
     "mongoose": "^6.6.5",
     "ms": "^2.1.3",
     "node-cron": "^3.0.2",
-    "node-emoji": "^1.11.0",
+    "node-emoji": "^2.1.3",
     "opusscript": "^0.0.8",
     "os-utils": "^0.0.14",
     "path": "^0.12.7",
